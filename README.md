@@ -23,7 +23,7 @@
 ### 📂 Projects
 | Repo | What it is |
 |---|---|
-| [`python-learning-log`](https://github.com/zinoscript/python-learning-log) | Small Python scripts for IT tasks |
+| [`ai-it-automation`](https://github.com/Zinoscript/ai-it-automation) | Small Python scripts for IT tasks |
 | `homelab-docs` | Notes on my homelab *(coming soon)* |
 
 <div align="center">
